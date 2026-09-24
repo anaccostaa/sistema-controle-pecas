@@ -1,5 +1,5 @@
 ﻿# Sistema de Controle de Peças
-> Automação digital para gestão de qualidade em linha de montagem industrial
+
 
 ---
 
