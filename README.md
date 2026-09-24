@@ -117,4 +117,4 @@ sistema_pecas.py
 
 ---
 
-*Projeto desenvolvido para a disciplina Algoritmos e Lógica de Programação — UniFECAF 2025.*
+
