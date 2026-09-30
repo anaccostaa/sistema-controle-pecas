@@ -11,7 +11,7 @@ def ler_float(mensagem):
                 continue
             return valor
         except ValueError:
-            print("Entrada inválida! Digite um número válido (ex: 100.5 ou 100,5).")
+            print("Entrada inválida! Digite um número válido: (ex: 100.5 ou 100,5).")
 
 
 def avaliar_peca(peca):
